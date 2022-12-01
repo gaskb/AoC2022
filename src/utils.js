@@ -14,6 +14,14 @@ class Utils {
   static getDataRows = async inputdata => {
     return inputdata.split('\n');
   };
+
+  static compareNumbersAsc = (a, b) => {
+    return b - a;
+  };
+
+  static compareNumbersDesc = (a, b) => {
+    return b - a;
+  };
 }
 
 export default Utils;
