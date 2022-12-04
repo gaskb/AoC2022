@@ -6,3 +6,6 @@ Get calories carried from elves
 
 ## Day 02
 Rock, paper, scissors (lizard, Spock)
+
+## Day 03
+Backpack check
