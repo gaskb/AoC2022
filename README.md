@@ -12,3 +12,6 @@ Rucksack Reorganization
 
 ## Day 04
 Camp Cleanup
+
+## Day 05
+Supply Stacks
