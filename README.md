@@ -2,10 +2,13 @@
 
 # Elves jungle
 ## Day 01 
-Get calories carried from elves
+Calorie Counting
 
 ## Day 02
-Rock, paper, scissors (lizard, Spock)
+Rock, Paper, Scissors (Lizard, Spock)
 
 ## Day 03
-Backpack check
+Rucksack Reorganization
+
+## Day 04
+Camp Cleanup

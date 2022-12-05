@@ -22,6 +22,18 @@ class Utils {
   static compareNumbersDesc = (a, b) => {
     return b - a;
   };
+
+  static rangeInit = (firstElement, lastElement, step = 1) => {
+    const rangeArray = [];
+
+    rangeArray[0] = firstElement;
+    step = step || 1;
+    while (firstElement + step <= lastElement) {
+      rangeArray[rangeArray.length] = firstElement += step;
+    }
+
+    return rangeArray;
+  };
 }
 
 export default Utils;
