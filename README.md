@@ -18,3 +18,6 @@ Supply Stacks
 
 ## Day 06
 Tuning Trouble
+
+## Day 07
+No Space Left On Device
