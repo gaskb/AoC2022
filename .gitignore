@@ -18,4 +18,5 @@ npm-debug.log
 .DS_Store
 
 /reports/
+/input
 
