@@ -27,3 +27,6 @@ Treetop Tree House
 
 ## Day 09
 Rope Bridge
+
+## Day 10
+Cathode-Ray Tube
